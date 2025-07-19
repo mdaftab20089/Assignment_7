@@ -126,7 +126,7 @@ Follow these steps to set up the project locally:
 
 ### Mean Salary Based on Country
 
-![Salary by Country](Salary_Prediction/images/salary_by_country.png)
+![Salary by Country](Salary_Prediction\images\salary_by_country.png)
 
 ### Data Proportion by Country
 
