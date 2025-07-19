@@ -116,19 +116,18 @@ This project leverages machine learning to predict a software developer's annual
 
 **Prediction & Conversion in INR**
 
-!\[Prediction Interface]\(Screenshot 2025-07-20 020015.png)
+![Prediction Interface](images/prediction_interface.png)
 
 **Mean Salary Based on Experience**
-
-!\[Salary vs Experience]\(Screenshot 2025-07-20 015929.png)
+![Salary vs Experience](images/salary_vs_experience.png)  
 
 **Mean Salary Based on Country**
 
-!\[Salary by Country]\(Screenshot 2025-07-20 015923.png)
+![Salary by Country](images/salary_by_country.png)  
 
 **Data Proportion by Country**
 
-!\[Survey Distribution]\(Screenshot 2025-07-20 015916.png)
+![Survey Distribution](images/survey_distribution.png)
 
 ---
 
