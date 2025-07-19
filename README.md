@@ -117,16 +117,20 @@ Follow these steps to set up the project locally:
 ## Screenshots
 
 ### Prediction & Conversion in INR
-![Prediction Interface](images/prediction_interface.png)
+
+![Prediction Interface](Salary_Prediction/images/prediction_interface.png)
 
 ### Mean Salary Based on Experience
-![Salary vs Experience](images/salary_vs_experience.png)
+
+![Salary vs Experience](Salary_Prediction/images/salary_vs_experience.png)
 
 ### Mean Salary Based on Country
-![Salary by Country](images/salary_by_country.png)
+
+![Salary by Country](Salary_Prediction/images/salary_by_country.png)
 
 ### Data Proportion by Country
-![Survey Distribution](images/survey_distribution.png)
+
+![Survey Distribution](Salary_Prediction/images/survey_distribution.png)
 
 ---
 
