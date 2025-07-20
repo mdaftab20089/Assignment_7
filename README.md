@@ -118,20 +118,19 @@ Follow these steps to set up the project locally:
 
 ### Prediction & Conversion in INR
 
-![Prediction Interface](https://raw.githubusercontent.com/mdaftab20089/Assignment_7/main/Salary_Prediction/images/prediction_interface.png)
-
+![Prediction Interface](https://github.com/mdaftab20089/Assignment_7/blob/main/Salary_Prediction/Images/prediction_interface.png)
 
 ### Mean Salary Based on Experience
 
-![Salary vs Experience](Salary_Prediction/images/salary_vs_experience.png)
+![Salary vs Experience](https://github.com/mdaftab20089/Assignment_7/blob/main/Salary_Prediction/Images/salary_vs_experience.png)
 
 ### Mean Salary Based on Country
 
-![Salary by Country](Salary_Prediction\images\salary_by_country.png)
+![Salary by Country](https://github.com/mdaftab20089/Assignment_7/blob/main/Salary_Prediction/Images/salary_by_country.png)
 
 ### Data Proportion by Country
 
-![Survey Distribution](Salary_Prediction/images/survey_distribution.png)
+![Survey Distribution](https://github.com/mdaftab20089/Assignment_7/blob/main/Salary_Prediction/Images/survey_distribution.png)
 
 ---
 
