@@ -118,7 +118,8 @@ Follow these steps to set up the project locally:
 
 ### Prediction & Conversion in INR
 
-![Prediction Interface](Salary_Prediction/images/prediction_interface.png)
+![Prediction Interface](https://raw.githubusercontent.com/mdaftab20089/Assignment_7/main/Salary_Prediction/images/prediction_interface.png)
+
 
 ### Mean Salary Based on Experience
 
